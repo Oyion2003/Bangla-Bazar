@@ -1,5 +1,3 @@
-
-🇧🇩 Bangla Bazar (Ba Ba)
 Bangla Bazar (Ba Ba) is a nationwide multi-vendor e-commerce platform designed to connect local stores, manufacturers, delivery partners, and consumers in one unified digital marketplace.
 The platform enables users to buy and sell everything — from a pen nib to a car — through a secure and scalable mobile and web-based system.
 
